@@ -6,7 +6,7 @@
 
 .banner-contain{
 background-image: url(../images/banner/banner3.png);
-position: absolute;
+/* position: absolute; */
 width: 1600px;
 height: 810px;
 left: 0px;
@@ -56,3 +56,9 @@ top: 550px;
 border-radius: 10px;
 border-color: brown;
 }
+
+
+.my-section{
+
+}
+
