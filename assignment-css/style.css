@@ -1,0 +1,58 @@
+*{
+   margin: 0px auto;
+   
+}
+
+
+.banner-contain{
+background-image: url(../images/banner/banner3.png);
+position: absolute;
+width: 1600px;
+height: 810px;
+left: 0px;
+top: 0px
+
+}
+.banner-title{
+position: absolute;
+width: 510px;
+height: 220px;
+left: 700px;
+top: 200px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 75px;
+text-align: right;
+
+color: #FFFFFF;
+}
+.banner-paragraph{
+position: absolute;
+width: 350px;
+height: 70px;
+left: 850px;
+top: 430px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+text-align: right;
+
+color: #FFFFFF;
+}
+.banner-button{
+position: absolute;
+width: 160px;
+height: 64px;
+left: 1050px;
+top: 550px;
+border-radius: 10px;
+border-color: brown;
+}
