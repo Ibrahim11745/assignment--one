@@ -59,6 +59,154 @@ border-color: brown;
 
 
 .my-section{
+position: absolute;
+width: 1072px;
+height: 723.3px;
+left: 0px;
+top: 939px;
+}
+.my-contain{
+position: absolute;
+width: 416px;
+height: 400px;
+left: 0px;
+top: 10px;
+}
+.my-title{
+position: absolute;
+width: 288px;
+height: 94px;
+left: 650px;
+top: 10px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+/* Dark 01 */
+
+color: #151414;
+}
+.my-paragraph{
+position: absolute;
+width: 416px;
+height: 104px;
+left: 650px;
+top: 130px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+/* Dark 02 */
+
+color: #444343;
 
 }
 
+.my-five{
+
+position: absolute;
+width: 349px;
+height: 162px;
+left: 650px;
+top: 220px;
+
+}
+
+.my-five-title-one{
+color: #970c0c;
+font-weight: 400;
+font-size: 16px;
+width: 315px;
+height: 26px;
+
+}
+.my-five-style-all-two{
+color: blueviolet;
+font-weight: 400;
+font-size: 16px;
+width: 315px;
+height: 26px;
+}
+.my-five-style-all-three{
+color: skyblue;
+font-weight: 400;
+font-size: 16px;
+width: 315px;
+height: 26px;
+}
+.my-five-style-all-four{
+color:tomato;
+font-weight: 400;
+font-size: 16px;
+width: 315px;
+height: 26px;
+}
+.my-five-style-all-five{
+color:orangered;
+font-weight: 400;
+font-size: 16px;
+width: 315px;
+height: 26px;
+}
+
+.my-image{
+position: absolute;
+width: 569px;
+height: 723.3px;
+left: 70px;
+top: 10px;
+}
+
+.plan-title{
+position: absolute;
+width: 179px;
+height: 47px;
+left: 590px;
+top: 1550px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+text-align: center;
+
+/* Dark 01 */
+
+color: #151414;
+}
+.plan-container{
+display: flex;
+position: absolute;
+width: 1141px;
+height: 202.96px;
+left: 110px;
+top: 1650px;
+
+}
+.web-title{
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+}
+.web-paragraph{
+   font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+/* Dark 03 */
+
+color: #737272;
+}
