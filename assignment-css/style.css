@@ -210,3 +210,166 @@ text-align: center;
 
 color: #737272;
 }
+
+.extra-image-section{
+position: absolute;
+width: 1140px;
+height: 300px;
+left: 100px;
+top: 1900px;
+background-image: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 97.31%);
+
+border-radius: 20px;
+
+}
+
+.extra-big-title{
+position: absolute;
+width: 459px;
+height: 182px;
+left: 294px;
+top: 2000px;
+
+}
+.extra-title{
+   font-weight: 700;
+   font-size: 40px;
+   line-height: 47px;
+   color: #FFFFFF;
+
+}
+
+.extra-button{
+position: absolute;
+width: 160px;
+height: 64px;
+left: 5px;
+top: 110px;
+text-align: center;
+color: #005FAC;
+font-weight: 600;
+font-size: 20px;
+}
+
+.footer-section{
+position: absolute;
+width: 1600px;
+height: 570px;
+left: 0px;
+top: 2300px;
+background: #151414;
+display: flex;
+}
+
+.fotter-contain{
+position: absolute;
+width: 485px;
+height: 317px;
+left: 230px;
+top: 100px;
+}
+.fotter-title{
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+
+color: #F8F8F8;
+}
+.footer-paragraph{
+ font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+color: #FFFFFF;
+}
+.fotter-email{
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #FFFFFF;
+
+}
+.fotter-phone{
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #FFFFFF;
+}
+
+.footer-image{
+display: flex;
+position: absolute;
+width: 175px;
+height: 46px;
+left: 0px;
+top: 200px;
+
+}
+
+.footer-sub-title{
+position: absolute;
+width: 123px;
+height: 29px;
+left: 890px;
+top: 2400px;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+color: #FFFFFF;
+}
+
+.email-box{
+position: absolute;
+width: 146px;
+height: 21px;
+left: 900px;
+top: 2450px;
+
+font-weight: 400;
+font-size: 18px;
+ color: #FFFFFF;
+
+}
+
+.footer-button{
+position: absolute;
+width: 170.11px;
+height: 64px;
+left: 890px;
+top: 2530px;
+
+background: #005FAC;
+border-radius: 8px;
+}
+.footer-check-box{
+   
+box-sizing: border-box;
+
+position: absolute;
+width: 325px;
+height: 64px;
+left: 890px;
+top: 2450px;
+color: #f3f3f3;
+border: 1px solid #FFFFFF;
+border-radius: 8px;
+}
+
+.box-text-all{
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+padding: 20px;
+
+/* Dark 07 */
+
+color: #F3F3F3;
+}
