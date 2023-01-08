@@ -211,31 +211,25 @@ text-align: center;
 color: #737272;
 }
 
-.extra-image-section{
-position: absolute;
-width: 1140px;
-height: 300px;
-left: 100px;
-top: 1900px;
-background-image: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 97.31%);
-
-border-radius: 20px;
+.extra-title{
+   padding: 50px;
+   font-size: 40px;
+   color: white;
+   right: 70px;
+   
 
 }
 
 .extra-big-title{
 position: absolute;
-width: 459px;
-height: 182px;
-left: 294px;
-top: 2000px;
-
-}
-.extra-title{
-   font-weight: 700;
-   font-size: 40px;
-   line-height: 47px;
-   color: #FFFFFF;
+width: 1000px;
+height: 300px;
+left: 150px;
+top: 1900px;
+background-image:linear-gradient(#ff00009e, #ffff00c9), url(../assignment-css/watch.png);
+background-repeat: no-repeat;
+/* background-size: cover; */
+ 
 
 }
 
@@ -243,12 +237,13 @@ top: 2000px;
 position: absolute;
 width: 160px;
 height: 64px;
-left: 5px;
+left: 50px;
 top: 110px;
 text-align: center;
 color: #005FAC;
 font-weight: 600;
 font-size: 20px;
+
 }
 
 .footer-section{
