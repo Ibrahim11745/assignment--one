@@ -3,10 +3,9 @@
    
 }
 
-
+/* banner-section All Thinks Are Possible If You believe Start */
 .banner-contain{
 background-image: url(../images/banner/banner3.png);
-/* position: absolute; */
 width: 1600px;
 height: 810px;
 left: 0px;
@@ -41,12 +40,10 @@ font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 26px;
-/* or 162% */
-
 text-align: right;
-
 color: #FFFFFF;
 }
+
 .banner-button{
 position: absolute;
 width: 160px;
@@ -56,7 +53,6 @@ top: 550px;
 border-radius: 10px;
 border-color: brown;
 }
-
 
 .my-section{
 position: absolute;
@@ -72,23 +68,21 @@ height: 400px;
 left: 0px;
 top: 10px;
 }
+
 .my-title{
 position: absolute;
 width: 288px;
 height: 94px;
 left: 650px;
 top: 10px;
-
 font-family: 'Work Sans';
 font-style: normal;
 font-weight: 700;
 font-size: 40px;
 line-height: 47px;
-
-/* Dark 01 */
-
 color: #151414;
 }
+
 .my-paragraph{
 position: absolute;
 width: 416px;
@@ -101,15 +95,12 @@ font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 26px;
-/* or 162% */
-
-
-/* Dark 02 */
-
 color: #444343;
 
 }
+/* banner-section All Thinks Are Possible If You believe End */
 
+/* My failures of Five previous year Start */
 .my-five{
 
 position: absolute;
@@ -164,25 +155,21 @@ height: 723.3px;
 left: 70px;
 top: 10px;
 }
+/* My failures of Five previous year End */
 
+/* plan-section- My Plan Start */
 .plan-title{
 position: absolute;
 width: 179px;
 height: 47px;
 left: 590px;
 top: 1550px;
-
 font-family: 'Work Sans';
 font-style: normal;
 font-weight: 700;
 font-size: 40px;
 line-height: 47px;
-/* identical to box height */
-
 text-align: center;
-
-/* Dark 01 */
-
 color: #151414;
 }
 .plan-container{
@@ -201,16 +188,15 @@ line-height: 35px;
 text-align: center;
 }
 .web-paragraph{
-   font-weight: 500;
+font-weight: 500;
 font-size: 25px;
 line-height: 29px;
 text-align: center;
-
-/* Dark 03 */
-
 color: #737272;
 }
+/* plan-section- My Plan End */
 
+/* exta-container-start */
 .extra-title{
    padding: 50px;
    font-size: 40px;
@@ -228,9 +214,6 @@ left: 150px;
 top: 1900px;
 background-image:linear-gradient(#ff00009e, #ffff00c9), url(../assignment-css/watch.png);
 background-repeat: no-repeat;
-/* background-size: cover; */
- 
-
 }
 
 .extra-button{
@@ -245,7 +228,9 @@ font-weight: 600;
 font-size: 20px;
 
 }
+/* exta-container-End*/
 
+/* footer-section-- start  */
 .footer-section{
 position: absolute;
 width: 1600px;
@@ -267,34 +252,28 @@ top: 100px;
 font-weight: 700;
 font-size: 45px;
 line-height: 53px;
-/* identical to box height */
-
-
 color: #F8F8F8;
 }
+
 .footer-paragraph{
  font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 26px;
-/* or 162% */
 color: #FFFFFF;
 }
 .fotter-email{
 font-weight: 400;
 font-size: 16px;
 line-height: 26px;
-/* identical to box height, or 162% */
-
 color: #FFFFFF;
 
 }
+
 .fotter-phone{
 font-weight: 400;
 font-size: 16px;
 line-height: 26px;
-/* identical to box height, or 162% */
-
 color: #FFFFFF;
 }
 
@@ -363,13 +342,11 @@ font-weight: 400;
 font-size: 18px;
 line-height: 21px;
 padding: 20px;
-
-/* Dark 07 */
-
 color: #F3F3F3;
 }
+/* footer-section-- End */
 
-
+/* BSC IN CSE- Books List-- Select The  Books start  */
 .css-title-list{
    position: absolute;
    color: blueviolet;
@@ -401,17 +378,6 @@ color: #F3F3F3;
    color: blueviolet;
    background-color: aquamarine;
 }
-/* .submit-list{
-   position: absolute;
-   width: 170.11px;
-   height: 64px;
-   right: 100px;
-   top: 1450px;
-   left: 310px;
-   color: #970c0c;
-   border-radius: 10px;
-   background-color: darkorange;
-} */
 
 .boooks-submit{
    position: absolute;
@@ -424,3 +390,16 @@ color: #F3F3F3;
    border-radius: 10px;
    background-color: darkorange;
 }
+/* BSC IN CSE- Books List-- Select The  Books End */
+
+/* footer-Copyright Start */
+.foot-right{
+   text-align: center;
+   position:absolute;
+   right: 250px;
+   top: 2845px;
+   left: 270px;
+   color: whitesmoke;
+}
+
+/* footer-Copyright End */
