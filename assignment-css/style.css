@@ -368,3 +368,59 @@ padding: 20px;
 
 color: #F3F3F3;
 }
+
+
+.css-title-list{
+   position: absolute;
+   color: blueviolet;
+   right: 100px;
+   top: 1320px;
+   left: 650px;
+
+}
+.the-books{
+   position: absolute;
+   width: 170.11px;
+   height: 100px;
+   right: 100px;
+   top: 1400px;
+   left: 270px;
+   font-size: 16px;
+  color: brown;
+}
+
+.books-list{
+   position: absolute;
+   width: 170.11px;
+   height: 64px;
+   right: 0px;
+   top: 1370px;
+   left: 450px ;
+   font-size: 20px;
+   border-radius: 10px;
+   color: blueviolet;
+   background-color: aquamarine;
+}
+/* .submit-list{
+   position: absolute;
+   width: 170.11px;
+   height: 64px;
+   right: 100px;
+   top: 1450px;
+   left: 310px;
+   color: #970c0c;
+   border-radius: 10px;
+   background-color: darkorange;
+} */
+
+.boooks-submit{
+   position: absolute;
+   width: 170.11px;
+   height: 64px;
+   right: 100px;
+   top: 1450px;
+   left: 270px;
+   color: #970c0c;
+   border-radius: 10px;
+   background-color: darkorange;
+}
